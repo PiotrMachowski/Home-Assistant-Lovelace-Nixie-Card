@@ -5,7 +5,7 @@
 [![buycoffee.to][buycoffee_to_shield]][buycoffee_to]
 [![PayPal.Me][paypal_me_shield]][paypal_me]
 
-[hacs_shield]: https://img.shields.io/static/v1.svg?label=&message=Custom&style=popout&color=orange&labelColor=41bdf5&logo=HomeAssistantCommunityStore&logoColor=white
+[hacs_shield]: https://img.shields.io/static/v1.svg?label=HACS&message=Custom&style=popout&color=orange&labelColor=41bdf5&logo=HomeAssistantCommunityStore&logoColor=white
 [hacs]: https://hacs.xyz/docs/faq/custom_repositories
 
 [latest_release]: https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Nixie-Card/releases/latest
