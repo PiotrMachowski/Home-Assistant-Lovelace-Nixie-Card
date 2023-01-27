@@ -15,7 +15,7 @@ jobs:
         uses: svenstaro/upload-release-action@v1-release
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
-          file: dist/nixie-card.js
+          file: src/nixie-card.js
           asset_name: nixie-card.js
           tag: ${{ github.ref }}
           overwrite: true
